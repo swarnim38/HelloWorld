@@ -15,7 +15,7 @@ import java.sql.Statement;
  */
 public class mySQL_demo {
     public static void main(String args[]) {
-        String dbURL = "jdbc:mysql://localhost:3306/school";
+        String dbURL = "jdbc:mysql://localhost:3306/library";
         String username = "root";
         String password = "swarnim";
         try{
